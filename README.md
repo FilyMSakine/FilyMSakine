@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilyMSakine
 - 👀 I’m interested in app and web development
-- 🌱 I’m currently learning spring boot
+- 🌱 I’m currently learning angular
 - 📫 How to reach me (fsakine@wassatechnologie.com)
 
 <!---
